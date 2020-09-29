@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9FF5211D-2335-48EE-B87B-5A4EA061B84F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2284686E-35F9-43F8-B058-DC2E9E36B65C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coronastats/Views/TotalDataCart.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "TotalDataCart"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFDAA31F-CB61-421A-8727-9CEA7A57D0F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Coronastats/Views/TotalDataCard.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "TotalDataCard"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "CFDAA31F-CB61-421A-8727-9CEA7A57D0F4 - 69968a23d19b956f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coronastats.TotalDataCard.init(number: Swift.String, name: Swift.String, color: SwiftUI.Color) -&gt; Coronastats.TotalDataCard"
+                  moduleName = "Coronastats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/safimodi/Desktop/Coronastats/Coronastats/Views/TotalDataCard.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "CFDAA31F-CB61-421A-8727-9CEA7A57D0F4 - d6f0552a824a399"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Coronastats.TotalDataCard.init() -&gt; Coronastats.TotalDataCard"
+                  moduleName = "Coronastats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/safimodi/Desktop/Coronastats/Coronastats/Views/TotalDataCard.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
